@@ -56,4 +56,4 @@ npm run dev
 - **Views**: `Placement_Analytics_View` pre-aggregates placement statistics securely for the dashboard.
 - **Complex SQL**: Find 30 highly complex queries demonstrating Joins, Window Functions (`RANK()`, `DENSE_RANK()`), Correlated Subqueries, and CTEs in `/database/queries/01_complex_queries.sql`.
 
-Everything is fully documented in the `/docs` folder for your Viva!
+
